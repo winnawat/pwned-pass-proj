@@ -13,15 +13,20 @@ That is:
 The intended outcome is to compel individuals to think twice before setting up passwords for anything. Even if that password is not protecting anything important. Passwords that may appear secure may have already been breached for thousands of times by hackers.
 
 ## The data
-The data used in this study is taken from a website by Troy Hunt [haveibeenpwned.com](https://haveibeenpwned.com/Passwords). Troy is a  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security and a significant contributor in the cybersecurity community. Troy has made the data freely available to the public with no license and he has persoanlly allowed the dataset to be used for this project.
+The data used in this study is taken from a website by Troy Hunt [haveibeenpwned.com](https://haveibeenpwned.com/Passwords). Troy is a  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security and a significant contributor in the cybersecurity community. Troy has made the data freely available to the public with no license and he has persoanlly allowed the dataset to be used for this project.  
+The generated "easy" passwords will then be used to check against this list to check if they appear on the list at all and if so, how many times have they been leaked.
 
-### What is contains
+### What it contains
 The dataset is a list of hashed(SHA-1) passwords that have been compromised in a data dump before and their corresponding number of times they appear on data breaches. The compromised passwords are gathered by Troy himself from various data dumps on the internet. He kept on adding new entries as new dumps happened.  
 _Format of the data_ 
 
 |passwords|number of times the password appears on a dump|
 |----|----|
-|hashed passwords|count|
+|hashed password1|count1|
+|hashed password2|count2|
+
+### ethical considerations
+The fact that passwords are hashed prevents any personal information from being revealed.
 
 ## Unknowns and dependencies
 - It is unclear how large the portion of "easy" passwords will be among the most frequently exploited passwords. If the portion is low, the findings could be very underwhelming. This may have the opposite effect as it can create a false sense of security among users of "easy" passwords.
