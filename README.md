@@ -24,6 +24,8 @@ _Format of the data_
 |----|----|
 |hashed password1|count1|
 |hashed password2|count2|
+|...|...|
+|hashed password_n|count_n|
 
 ### ethical considerations
 The fact that passwords are hashed prevents any personal information from being revealed.
