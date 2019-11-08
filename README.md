@@ -28,7 +28,8 @@ _Format of the data_
 |hashed password_n|count_n|
 
 ### ethical considerations
-The fact that passwords are hashed prevents any personal information from being revealed.
+The fact that passwords are hashed prevents any personal information from being revealed.  
+Nonetheless, in the course of this study, there will be attempts to guess the passwords on the list. As such, even though the randomly generated passwords will not be revealed visually in the course of this analysis, the passwords generated can still be recovered in the course of reproducing this study.
 
 ## Unknowns and dependencies
 - It is unclear how large the portion of "easy" passwords will be among the most frequently exploited passwords. If the portion is low, the findings could be very underwhelming. This may have the opposite effect as it can create a false sense of security among users of "easy" passwords.
