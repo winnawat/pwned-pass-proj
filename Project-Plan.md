@@ -58,7 +58,8 @@ The following are the research questions this project will try to answer.
 1. What is the most common type (among the categories listed above) of password?
 2. What is the proportion of the passwords that can be classified under the categories above?
 
-In the light of recent high-profile breaches, it is highly likely that the public's awareness of cyber security has improved. If that is the case, then it would be interesting to investigate the following.  
+In the light of recent high-profile breaches, it is highly likely that the public's awareness of cyber security has improved. If that is the case, then it would be interesting to investigate the following.
+
 3. How do the counts of the different categories of compromised passwords change within a year?
 
 ## Hypothesis
