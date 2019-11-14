@@ -56,8 +56,13 @@ An analysis on the common passwords' characteristics such as length and characte
 ## Research Questions
 The following are the research questions this project will try to answer.
 1. What is the most common type (among the categories listed above) of password?
-2. What is the proportion of the passwords that can be classified under the categories above.
-3. How do the counts of the different categories of compromised passwords change within a year.
+2. What is the proportion of the passwords that can be classified under the categories above?
+
+In the light of recent high-profile breaches, it is highly likely that the public's awareness of cyber security has improved. If that is the case, then it would be interesting to investigate the following.  
+3. How do the counts of the different categories of compromised passwords change within a year?
+
+## Hypothesis
+1. From **RQ.3** above, as users set more difficult passwords, the count of uncategorized passwords should show the largest increase from V.3 to V.5 of the data.
 
 ## Methodology and Tools
 
