@@ -1,5 +1,5 @@
-# pwned-pass-proj
-DATA512 project on exploratory analysis on pwned passwords
+# Final Project Proposal - Most Vulnerable Passwords
+DATA512 project on exploratory analysis on pwned passwords data set.
 
 # Project proposal
 Today, data security is one of the top concerns for both individuals and organizations. We all have sensitive information that we want protected. Unfortunately, nowadays, these information has to be online for them to be useful. Often, the only thing separating bad actors and our important and private data is a password. Still, hacks happen every day and almsot anyone can be a victim of a data breach. [Even Mark Zuckerberg's Twitter was compromised](https://www.theguardian.com/technology/2016/jun/06/mark-zuckerberg-hacked-on-twitter-and-pinterest).  
