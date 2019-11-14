@@ -34,5 +34,3 @@ Nonetheless, in the course of this study, there will be attempts to guess the pa
 ## Unknowns and dependencies
 - It is unclear how large the portion of "easy" passwords will be among the most frequently exploited passwords. If the portion is low, the findings could be very underwhelming. This may have the opposite effect as it can create a false sense of security among users of "easy" passwords.
 - The computational power requried to generate keyboard random walks, numbers in date formats, terms for dictionary attack could be masssive. This is almost equivalent to trying to crack a password. Therefore, some clever restrictions on the password generation will have to be implemented.
-
-# II. Project Plan
